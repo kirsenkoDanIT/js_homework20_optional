@@ -23,6 +23,6 @@ const projectDeadline = (points, tasks, deadlineDate) => {
 
 const points = [1, 2, 3];
 const tasks = [4, 5, 6];
-const deadlineDate = new Date('2019-05-20');
+const deadlineDate = new Date('2019-06-20');
 
 console.log(projectDeadline(points, tasks, deadlineDate))
